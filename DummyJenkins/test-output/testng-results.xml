@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[santhu]]>
+    </line>
+    <line>
+      <![CDATA[sanju]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-01-06T23:25:28 IST" name="Suite" finished-at="2023-01-06T23:25:28 IST" duration-ms="105">
+    <groups>
+    </groups>
+    <test started-at="2023-01-06T23:25:28 IST" name="Test" finished-at="2023-01-06T23:25:28 IST" duration-ms="105">
+      <class name="com.demo.Demo1">
+        <test-method signature="m2()[pri:0, instance:com.demo.Demo1@fba92d3]" started-at="2023-01-06T23:25:28 IST" name="m2" finished-at="2023-01-06T23:25:28 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[santhu]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- m2 -->
+      </class> <!-- com.demo.Demo1 -->
+      <class name="com.demo.Demo">
+        <test-method signature="m1()[pri:0, instance:com.demo.Demo@2fb3536e]" started-at="2023-01-06T23:25:28 IST" name="m1" finished-at="2023-01-06T23:25:28 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[sanju]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+      </class> <!-- com.demo.Demo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
